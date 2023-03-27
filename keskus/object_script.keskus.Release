@@ -1,0 +1,10 @@
+release/addFamDialog.o
+release/editFamDialog.o
+release/fileExDialog.o
+release/info.o
+release/main.o
+release/mainwindow.o
+release/moc_addFamDialog.o
+release/moc_editFamDialog.o
+release/moc_fileExDialog.o
+release/moc_mainwindow.o

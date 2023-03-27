@@ -1,0 +1,10 @@
+debug/addFamDialog.o
+debug/editFamDialog.o
+debug/fileExDialog.o
+debug/info.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_addFamDialog.o
+debug/moc_editFamDialog.o
+debug/moc_fileExDialog.o
+debug/moc_mainwindow.o
