@@ -1,3 +1,17 @@
+/*
+*Author: @SalsuPalsu
+*A separate dialog for selecting a file
+*Opens a File Explorer, only accepts files that are in the format of csv
+*File should contain new members to be added, in the following manner:
+*
+*|viivakoodi|aikuiset|lapset|pienetLapset|
+*|10002999  |   1    |  2   |      0     |
+*|132333    |   2    |  0   |      3     |
+*
+*If file contains wrong values, letters etc, or has too many columns, user is notified and the file's contents are not added
+*If file contents are valid, the new information is added
+*/
+
 #include "fileExDialog.h"
 #include "ui_fileExDialog.h"
 

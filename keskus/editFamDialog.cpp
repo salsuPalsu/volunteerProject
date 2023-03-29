@@ -1,3 +1,11 @@
+/*
+*Author: @SalsuPalsu
+*A separate dialog for editing an existing family
+*User can edit family's head count (Adults & children & small children)
+*Uses a barcode number to identify the added family
+*Changes are saved in the system
+*/
+
 #include "editFamDialog.h"
 #include "ui_editFamDialog.h"
 

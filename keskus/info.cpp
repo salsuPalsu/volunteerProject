@@ -1,3 +1,15 @@
+/*
+*Author: @SalsuPalsu
+*This class is handling different tasks:
+* Adding new members in the system
+* Adding items to a family by given barcode
+* Updating the txt-file that contains all the information about the families
+* Checking if barcode is already in use, when adding new members
+* Searching for a family by given barcode
+* Checking the csv files contents, if they are valid
+*
+*/
+
 #include <iostream>
 #include <string>
 #include <fstream>

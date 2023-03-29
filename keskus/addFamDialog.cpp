@@ -1,3 +1,12 @@
+/*
+*Author: @SalsuPalsu
+*A separate dialog for adding a new family to the system
+*Asks for a barcode and the number of members (Adults & children & small children)
+*Uses a barcode number to identify the added family
+*If the number is already in use, user will not be able to add the family to the system -> has to change the barcode
+*
+*/
+
 #include "addFamDialog.h"
 #include "ui_addFamDialog.h"
 

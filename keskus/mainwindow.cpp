@@ -1,3 +1,14 @@
+/*
+*Author: @SalsuPalsu
+*The main window, that displays all the needed information
+*From this window, you can choose to:
+* Search a member with a barcode
+* Add a member
+* Edit member's information
+* Give items to the member
+* Add a large number of members by choosing a csv-file
+*/
+
 #include "mainwindow.hh"
 #include "ui_mainwindow.h"
 
